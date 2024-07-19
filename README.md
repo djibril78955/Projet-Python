@@ -45,7 +45,7 @@ Ce projet est un jeu simple inspiré de Mario, développé en Python en utilisan
 1. **Exécutez le script** :
 
     ```
-    python Mario_game.py
+    python Main.py
     ```
 
 2. **Menu principal** :
