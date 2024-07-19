@@ -16,7 +16,6 @@ Ce projet est un jeu simple inspiré de Mario, développé en Python en utilisan
 1. **Clonez le dépôt** :
 
     ```
-    git clone https://github.com/votre-utilisateur/jeu-mario.git
     ```
 
 2. **Installez une version de Python adaptée** :
