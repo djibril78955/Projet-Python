@@ -70,13 +70,10 @@ Ce projet est un jeu simple inspiré de Mario, développé en Python en utilisan
 
 ## Contributions
 
-Les contributions sont les bienvenues ! Veuillez soumettre des pull requests ou ouvrir des issues pour discuter des améliorations ou des bugs.
+Djibril.A, Aliou.N, Yanis.E
 
-## Licence
+Dans le cadre du projet du module python à H3Hitema en l'année de Bachelor
 
-Ce projet est sous la [Licence MIT](https://opensource.org/licenses/MIT). Voir le fichier `LICENSE` pour plus d'informations.
-
-## Contact
 
 Pour toute question ou remarque, vous pouvez me contacter à l'adresse suivante : votre.email@example.com
 
