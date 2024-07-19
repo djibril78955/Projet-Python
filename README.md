@@ -15,9 +15,6 @@ Ce projet est un jeu simple inspiré de Mario, développé en Python en utilisan
 
 1. **Clonez le dépôt** :
 
-    ```
-    ```
-
 2. **Installez une version de Python adaptée** :
 
     Vous aurez besoin de Python 3.x installé sur votre machine. Les bibliothèques nécessaires sont incluses avec Tkinter, qui est généralement préinstallé avec Python.
