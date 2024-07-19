@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet est un jeu simple inspiré de Mario, développé en Python en utilisant la bibliothèque Tkinter pour l'interface graphique. Le jeu se compose de plusieurs niveaux où Mario doit éviter les ennemis, collecter des champignons, et progresser à travers les niveaux. Le code utilise des classes abstraites pour structurer le jeu de manière modulaire et extensible.
+Ce projet est un jeu simple inspiré de Mario, développé en Python en utilisant la bibliothèque Tkinter pour l'interface graphique. Le jeu se compose de plusieurs niveaux où Mario doit éviter les ennemis, collecter des champignons, et progresser à travers les niveaux.
 
 ## Fonctionnalités
 
