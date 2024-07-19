@@ -75,8 +75,6 @@ Djibril.A, Aliou.N, Yanis.E
 Dans le cadre du projet du module python à H3Hitema en l'année de Bachelor
 
 
-Pour toute question ou remarque, vous pouvez me contacter à l'adresse suivante : votre.email@example.com
-
 ---
 
 Merci d'avoir consulté ce projet ! Amusez-vous bien avec le jeu Mario.
