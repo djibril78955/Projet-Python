@@ -1,4 +1,6 @@
-![H3Hitema](K:\Djibril-Hamed.Alaby.11777\Documents Perso\IT\Projet python\images\pres.jfif)
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/Sunaookami/PythonHitema/blob/main/src/CookHub.png"> 
+</p>
 
 
 # Jeu Mario en Python
